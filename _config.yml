@@ -8,14 +8,12 @@ highlighter: pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap
-tagline: Site Tagline
+title : yullite
+tagline: site yutellite
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Ivan yu
+  email : yutellite@126.com
+  github : yutellite
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -27,7 +25,7 @@ author :
 #
 production_url : http://username.github.io
 
-gems: ["jekyll-sitemap"]
+gems: ["yutellite"]
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -84,7 +82,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : yutellite
     livefyre :
       site_id : 123
     intensedebate :
@@ -95,7 +93,7 @@ JB :
       width: 580
       colorscheme: light
     duoshuo :
-      short_name : jekyllbootstrap
+      short_name : yutellite
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
